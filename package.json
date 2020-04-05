@@ -11,10 +11,17 @@
   },
   "dependencies": {
     "firebase": "^7.13.1",
+    "lodash": "^4.17.15",
     "react": "16.11.0",
     "react-native": "0.62.0",
+    "react-native-communications": "^2.2.1",
+    "react-native-gesture-handler": "^1.6.1",
+    "react-native-reanimated": "^1.7.1",
+    "react-native-router-flux": "^4.2.0",
+    "react-native-screens": "^2.4.0",
     "react-redux": "^7.2.0",
-    "redux": "^4.0.5"
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
